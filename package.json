@@ -1,6 +1,6 @@
 {
   "name": "dev-protector-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript library designed to enhance web application security by blocking common developer tools, preventing right-click context menus, alerting users when navigating away, and implementing an inactivity timeout.",
   "main": "lib/index.js",
   "scripts": {
