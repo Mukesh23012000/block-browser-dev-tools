@@ -1,7 +1,7 @@
 {
-  "name": "block-browser-dev-tools",
+  "name": "dev-protector-js",
   "version": "1.0.0",
-  "description": "JavaScript package designed to enhance security by preventing users from accessing browser developer tools. This package is particularly useful for web applications that need to protect sensitive data or proprietary code from inspection",
+  "description": "A lightweight JavaScript library designed to enhance web application security by blocking common developer tools, preventing right-click context menus, alerting users when navigating away, and implementing an inactivity timeout.",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
