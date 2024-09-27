@@ -1,0 +1,30 @@
+{
+  "name": "block-browser-dev-tools",
+  "version": "1.0.0",
+  "description": "JavaScript package designed to enhance security by preventing users from accessing browser developer tools. This package is particularly useful for web applications that need to protect sensitive data or proprietary code from inspection",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "author": "Mukesh Kannan",
+  "license": "ISC",
+  "keywords": [
+    "devtools",
+    "security",
+    "javascript",
+    "block",
+    "browser",
+    "inspect",
+    "security"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mukesh23012000/block-browser-dev-tools"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4"
+  }
+}
